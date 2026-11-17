@@ -51,6 +51,37 @@ lib.stats("93443")                      # 聚合 + 样本量
 卖家后台「Ozon 上的商品」周榜 + 买家端商品墙，按 SKU 合并去重。
 抓取工具和抓取方式不随本仓库发布——**这里只放数据和读取端**。
 
+
+## 或者：直接调 API（不用 clone）
+
+同一份数据，我们托管了一份只读接口，**公开、免费、不要令牌**，按 IP 每分钟 60 次。
+
+```bash
+# 有哪些类目
+curl "https://yunlinghanyin.cn/api/market/categories"
+
+# 腮红类目里销量最高的三个
+curl "https://yunlinghanyin.cn/api/market/top?category=93443&n=3&by=sales"
+
+# 类目聚合：GMV / 价格带 / ДРР 中位 / 集中度
+curl "https://yunlinghanyin.cn/api/market/stats_by_category?category=93443"
+```
+
+| 端点 | 用途 |
+|---|---|
+| `GET /api/market/stats` | 库状态（schema、更新时间、类目数、商品数） |
+| `GET /api/market/categories` | 类目列表 + 条数 + GMV 合计 |
+| `GET /api/market/top?category=&n=&by=` | 榜单，`by` 支持 gmv / sales / growth_pct / reviews / rating / conv_pct / drr_pct |
+| `GET /api/market/stats_by_category?category=` | 类目聚合 |
+| `GET /api/market/item?sku=` | 单个 SKU |
+
+**接口返回的字段和仓库里的 JSON 完全一致**（同一个 schema），所以两种拿法可以混用：
+探索阶段打接口，要全量就 clone。
+
+错误约定：`400` 参数非法 / `404` 没有这个类目或 SKU（**不是零，是没抓**）/ `429` 限流 / `503` 数据未就绪。
+
+完整文档：<https://yunlinghanyin.cn/product-api.html>
+
 ## 三条口径纪律
 
 1. **`null` ≠ 0。** 字段为空是「没取到」，不是「等于零」，别拿去算平均。
