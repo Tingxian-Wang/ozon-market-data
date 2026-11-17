@@ -1,6 +1,6 @@
 {
  "schema": "ozon-market-data/v1",
- "updated_at": "2026-11-17T09:47:41+0800",
+ "updated_at": "2026-11-17T09:53:00+0800",
  "period": "weekly",
  "source": "Ozon 卖家后台「Ozon上的商品」周榜 + 买家端商品墙，按 SKU 合并",
  "count": 66,
@@ -1029,7 +1029,7 @@
    "promo_days": null,
    "scheme": null,
    "image": "https://ir-20.ozonstatic.cn/s3/multimedia-1-e/7300228910.jpg",
-   "url": "https://www.ozon.ru/product/ok-beauty-tint-dlya-gub-i-shchek-rumyana-dlya-litsa-kremovye-cocoa-200824536/?at=1p6r1Q6Xuy54MlvPFgtJIiN2BtPRexi5"
+   "url": "https://www.ozon.ru/product/ok-beauty-tint-dlya-gub-i-shchek-rumyana-dlya-litsa-kremovye-cocoa-200824536/?at=1p6r1SNII3PNUeHf0TDpZXeVOgvT3LaH"
   },
   {
    "sku": "5612934407",
@@ -1049,7 +1049,7 @@
    "promo_days": null,
    "scheme": null,
    "image": "https://ir-20.ozonstatic.cn/s3/multimedia-1-r/20003991507.jpg",
-   "url": "https://www.ozon.ru/product/rumyana-dlya-litsa-kremovye-v-stike-so-sponzhem-uvlazhnyayushchie-4-g-5612934407/?at=1p6r1U9Pi84oTjd25S44TBkeF4ntQfW7"
+   "url": "https://www.ozon.ru/product/rumyana-dlya-litsa-kremovye-v-stike-so-sponzhem-uvlazhnyayushchie-4-g-5612934407/?at=1p6r1V75Kfd9pSvOlJNpUKuzSKeK6n6p"
   },
   {
    "sku": "1793231603",
@@ -1069,47 +1069,7 @@
    "promo_days": null,
    "scheme": null,
    "image": "https://ir-20.ozonstatic.cn/s3/multimedia-1-7/7244536939.jpg",
-   "url": "https://www.ozon.ru/product/rumyana-dlya-litsa-1793231603/?at=1p6r1YyFtLXfxT6PVaWflXLt7pOBTxDu"
-  },
-  {
-   "sku": "1855706906",
-   "name": "YOOAH Colorfix Liquid Blush Кремовые румяна для лица, 05 Bubble/ Румяна",
-   "brand": null,
-   "category_id": "93443",
-   "gmv": null,
-   "sales": null,
-   "growth_pct": null,
-   "price_avg": null,
-   "price_min": null,
-   "rank_bin": null,
-   "rating": 4.8,
-   "reviews": null,
-   "conv_pct": null,
-   "drr_pct": null,
-   "promo_days": null,
-   "scheme": null,
-   "image": "https://ir-20.ozonstatic.cn/s3/multimedia-1-7/11401780615.jpg",
-   "url": "https://www.ozon.ru/product/yooah-colorfix-liquid-blush-kremovye-rumyana-dlya-litsa-05-bubble-rumyana-1855706906/?at=1p6r1TY5uj5oQX1EozhIS4ShhCnnEkqE"
-  },
-  {
-   "sku": "6033456554",
-   "name": "Румяна стик 3в1 кремовые для лица, для губ и глаз, ярко-красный, 20 г",
-   "brand": null,
-   "category_id": "93443",
-   "gmv": null,
-   "sales": null,
-   "growth_pct": null,
-   "price_avg": null,
-   "price_min": null,
-   "rank_bin": null,
-   "rating": null,
-   "reviews": null,
-   "conv_pct": null,
-   "drr_pct": null,
-   "promo_days": null,
-   "scheme": null,
-   "image": "https://ir-20.ozonstatic.cn/s3/multimedia-1-z/9780140663.jpg",
-   "url": "https://www.ozon.ru/product/rumyana-stik-3v1-kremovye-dlya-litsa-dlya-gub-i-glaz-yarko-krasnyy-20-g-6033456554/?at=1p6r1OdF5r5TU9rmteM8XsDbEYDq2AQT"
+   "url": "https://www.ozon.ru/product/rumyana-dlya-litsa-1793231603/?at=1p6r1O9UiNvAlqYpmmrj4slJIdtPRKlp"
   },
   {
    "sku": "2137559583",
@@ -1129,11 +1089,11 @@
    "promo_days": null,
    "scheme": null,
    "image": "https://ir-20.ozonstatic.cn/s3/multimedia-1-n/8330921375.jpg",
-   "url": "https://www.ozon.ru/product/rumyana-beauty-bomb-blush-sweetheart-ton-02-persikovyy-s-shimmerom-4-5-g-2137559583/?at=1p6r1Uo7XaJEMUWjayTu1pd0uIXPtNfO"
+   "url": "https://www.ozon.ru/product/rumyana-beauty-bomb-blush-sweetheart-ton-02-persikovyy-s-shimmerom-4-5-g-2137559583/?at=1p6r1VcMIwtPSm4nBBnGGWG5b-gIB02Y"
   },
   {
-   "sku": "5611077031",
-   "name": "Румяна для лица в стике, румяна для светлой кожи стик розовые для всех типов кожи",
+   "sku": "6033456554",
+   "name": "Румяна стик 3в1 кремовые для лица, для губ и глаз, ярко-красный, 20 г",
    "brand": null,
    "category_id": "93443",
    "gmv": null,
@@ -1142,14 +1102,14 @@
    "price_avg": null,
    "price_min": null,
    "rank_bin": null,
-   "rating": 4.9,
+   "rating": null,
    "reviews": null,
    "conv_pct": null,
    "drr_pct": null,
    "promo_days": null,
    "scheme": null,
-   "image": "https://ir-20.ozonstatic.cn/s3/multimedia-1-l/20292323889.jpg",
-   "url": "https://www.ozon.ru/product/rumyana-dlya-litsa-v-stike-rumyana-dlya-svetloy-kozhi-stik-rozovye-dlya-vseh-tipov-kozhi-5611077031/?at=1p6r1ZFUnjF90tSF7Dfuezg_8uN-zr1R"
+   "image": "https://ir-20.ozonstatic.cn/s3/multimedia-1-z/9780140663.jpg",
+   "url": "https://www.ozon.ru/product/rumyana-stik-3v1-kremovye-dlya-litsa-dlya-gub-i-glaz-yarko-krasnyy-20-g-6033456554/?at=1p6r1VwvtEouFMv1PM2RO-yYFmln9SFd"
   },
   {
    "sku": "658790979",
@@ -1169,11 +1129,11 @@
    "promo_days": null,
    "scheme": null,
    "image": "https://ir-20.ozonstatic.cn/s3/multimedia-1-6/21410598678.jpg",
-   "url": "https://www.ozon.ru/product/divage-rumyana-dlya-litsa-kompaktnye-solo-ton-04-rozovyy-matovyy-658790979/?at=1p6r1UWCWggl0fpYjTQW_Sw07SQ9ndbI"
+   "url": "https://www.ozon.ru/product/divage-rumyana-dlya-litsa-kompaktnye-solo-ton-04-rozovyy-matovyy-658790979/?at=1p6r1PcmxAXr7TTMpqWOcgYCeuRW9U9u"
   },
   {
-   "sku": "4277967109",
-   "name": "Стик-румяна для лица MULTITALENT тон 1",
+   "sku": "5611077031",
+   "name": "Румяна для лица в стике, румяна для светлой кожи стик розовые для всех типов кожи",
    "brand": null,
    "category_id": "93443",
    "gmv": null,
@@ -1188,8 +1148,8 @@
    "drr_pct": null,
    "promo_days": null,
    "scheme": null,
-   "image": "https://ir-20.ozonstatic.cn/s3/multimedia-1-j/10460590291.jpg",
-   "url": "https://www.ozon.ru/product/stik-rumyana-dlya-litsa-multitalent-ton-1-4277967109/?at=1p6r1VQAxO2mfWGPFOk0kDhvMJEsVmKQ"
+   "image": "https://ir-20.ozonstatic.cn/s3/multimedia-1-l/20292323889.jpg",
+   "url": "https://www.ozon.ru/product/rumyana-dlya-litsa-v-stike-rumyana-dlya-svetloy-kozhi-stik-rozovye-dlya-vseh-tipov-kozhi-5611077031/?at=1p6r1XIo4B6UOrPXU4QU0SUWkh3XNQsx"
   },
   {
    "sku": "479545982",
@@ -1209,7 +1169,27 @@
    "promo_days": null,
    "scheme": null,
    "image": "https://ir-20.ozonstatic.cn/s3/multimedia-1-l/21403884153.jpg",
-   "url": "https://www.ozon.ru/product/vivienne-sabo-paletka-rumyan-dlya-litsa-naturel-6-0-g-02-479545982/?at=1p6r1ShMj7WnUGFqSHmdVKHp19fALXMr"
+   "url": "https://www.ozon.ru/product/vivienne-sabo-paletka-rumyan-dlya-litsa-naturel-6-0-g-02-479545982/?at=1p6r1N7UU_Wu4xZzySI27TZ7N6dGE8u3"
+  },
+  {
+   "sku": "1171172988",
+   "name": "B.COLOUR PROFESSIONAL Румяна для лица и контуринга кремовые CAPSULE 04 Naked",
+   "brand": null,
+   "category_id": "93443",
+   "gmv": null,
+   "sales": null,
+   "growth_pct": null,
+   "price_avg": null,
+   "price_min": null,
+   "rank_bin": null,
+   "rating": 4.9,
+   "reviews": null,
+   "conv_pct": null,
+   "drr_pct": null,
+   "promo_days": null,
+   "scheme": null,
+   "image": "https://ir-20.ozonstatic.cn/s3/multimedia-1-v/8231135647.jpg",
+   "url": "https://www.ozon.ru/product/b-colour-professional-rumyana-dlya-litsa-i-konturinga-kremovye-capsule-04-naked-1171172988/?at=1p6r1QgfIi9NsT5dZ5WbfejuXWQlnZV5"
   },
   {
    "sku": "2482932937",
@@ -1229,7 +1209,27 @@
    "promo_days": null,
    "scheme": null,
    "image": "https://ir-20.ozonstatic.cn/s3/multimedia-1-z/9274956047.jpg",
-   "url": "https://www.ozon.ru/product/mixit-tint-dlya-gub-rumyana-make-up-jelly-lasting-lip-tint-03-2482932937/?at=1p6r1PeODJ89rhjoUmmeDI8Jcfbw0rUv"
+   "url": "https://www.ozon.ru/product/mixit-tint-dlya-gub-rumyana-make-up-jelly-lasting-lip-tint-03-2482932937/?at=1p6r1QG8LirNVE3SuB__ICkAirKNjpTb"
+  },
+  {
+   "sku": "4535726020",
+   "name": "Divage Румяна для лица муссовые Bouncy Blush, тон 02 пыльная роза",
+   "brand": null,
+   "category_id": "93443",
+   "gmv": null,
+   "sales": null,
+   "growth_pct": null,
+   "price_avg": null,
+   "price_min": null,
+   "rank_bin": null,
+   "rating": 4.9,
+   "reviews": null,
+   "conv_pct": null,
+   "drr_pct": null,
+   "promo_days": null,
+   "scheme": null,
+   "image": "https://ir-20.ozonstatic.cn/s3/multimedia-1-7/21310768123.jpg",
+   "url": "https://www.ozon.ru/product/divage-rumyana-dlya-litsa-mussovye-bouncy-blush-ton-02-pylnaya-roza-4535726020/?at=1p6r1YlhnPnBoXfr1Tf4WxnjVyNjDcyw"
   },
   {
    "sku": "5861070033",
@@ -1249,7 +1249,7 @@
    "promo_days": null,
    "scheme": null,
    "image": "https://ir-20.ozonstatic.cn/s3/multimedia-1-v/15274805359.jpg",
-   "url": "https://www.ozon.ru/product/rumyana-cloud-crush-blush-tsvet-golden-hour-5861070033/?at=1p6r1VCrQTBqZT7GjjDZqJGq4hWHStxF"
+   "url": "https://www.ozon.ru/product/rumyana-cloud-crush-blush-tsvet-golden-hour-5861070033/?at=1p6r1W6TbPEVqwlHpf2qt0_0j-3gc_Er"
   },
   {
    "sku": "1347142945",
@@ -1269,47 +1269,7 @@
    "promo_days": null,
    "scheme": null,
    "image": "https://ir-20.ozonstatic.cn/s3/multimedia-1-h/8459904221.jpg",
-   "url": "https://www.ozon.ru/product/anastasia-rumyana-6-1347142945/?at=1p6r1XjIM156P2YuKZPNcjwzzi9aAMtQ"
-  },
-  {
-   "sku": "5575604254",
-   "name": "Палетка румян для лица, 3 оттенка, сухая сияющая текстура, тон 02",
-   "brand": null,
-   "category_id": "93443",
-   "gmv": null,
-   "sales": null,
-   "growth_pct": null,
-   "price_avg": null,
-   "price_min": null,
-   "rank_bin": null,
-   "rating": 4.8,
-   "reviews": null,
-   "conv_pct": null,
-   "drr_pct": null,
-   "promo_days": null,
-   "scheme": null,
-   "image": "https://ir-20.ozonstatic.cn/s3/multimedia-1-y/14240389678.jpg",
-   "url": "https://www.ozon.ru/product/paletka-rumyan-dlya-litsa-3-ottenka-suhaya-siyayushchaya-tekstura-ton-02-5575604254/?at=1p6r1WRKLXsbU_4qzQVCweqoQ-OUz3C4"
-  },
-  {
-   "sku": "293710043",
-   "name": "SEVEN7EEN Румяна для лица компактные Natural Matte Silky, матовые, шелковистые, тон 13 Естественный румянец",
-   "brand": null,
-   "category_id": "93443",
-   "gmv": null,
-   "sales": null,
-   "growth_pct": null,
-   "price_avg": null,
-   "price_min": null,
-   "rank_bin": null,
-   "rating": 4.8,
-   "reviews": null,
-   "conv_pct": null,
-   "drr_pct": null,
-   "promo_days": null,
-   "scheme": null,
-   "image": "https://ir-20.ozonstatic.cn/s3/multimedia-1-8/10444524092.jpg",
-   "url": "https://www.ozon.ru/product/seven7een-rumyana-dlya-litsa-kompaktnye-natural-matte-silky-matovye-shelkovistye-ton-13-293710043/?at=1p6r1XVJ4lcNP7DpObLWp5bBnc-XvzYZ"
+   "url": "https://www.ozon.ru/product/anastasia-rumyana-6-1347142945/?at=1p6r1TbnO4mroC0eAXVypLKFZVLdOF01"
   },
   {
    "sku": "658752521",
@@ -1329,7 +1289,47 @@
    "promo_days": null,
    "scheme": null,
    "image": "https://ir-20.ozonstatic.cn/s3/multimedia-1-6/21410618262.jpg",
-   "url": "https://www.ozon.ru/product/divage-rumyana-dlya-litsa-kompaktnye-solo-ton-03-svetlo-rozovyy-satinovyy-658752521/?at=1p6r1QfXychjyf3Q_D6gcDzKONgtgo6I"
+   "url": "https://www.ozon.ru/product/divage-rumyana-dlya-litsa-kompaktnye-solo-ton-03-svetlo-rozovyy-satinovyy-658752521/?at=1p6r1WbxePgm4jXKxZePmJW_2nzmUsVz"
+  },
+  {
+   "sku": "5575604254",
+   "name": "Палетка румян для лица, 3 оттенка, сухая сияющая текстура, тон 02",
+   "brand": null,
+   "category_id": "93443",
+   "gmv": null,
+   "sales": null,
+   "growth_pct": null,
+   "price_avg": null,
+   "price_min": null,
+   "rank_bin": null,
+   "rating": 4.8,
+   "reviews": null,
+   "conv_pct": null,
+   "drr_pct": null,
+   "promo_days": null,
+   "scheme": null,
+   "image": "https://ir-20.ozonstatic.cn/s3/multimedia-1-y/14240389678.jpg",
+   "url": "https://www.ozon.ru/product/paletka-rumyan-dlya-litsa-3-ottenka-suhaya-siyayushchaya-tekstura-ton-02-5575604254/?at=1p6r1_nhDYSL8smdeKoz8KaFlLW0Izwr"
+  },
+  {
+   "sku": "4353244884",
+   "name": "Румяна для лица вишневые Charming кремовые с жемчужной и бриллиантовой пудрой, тон 700",
+   "brand": null,
+   "category_id": "93443",
+   "gmv": null,
+   "sales": null,
+   "growth_pct": null,
+   "price_avg": null,
+   "price_min": null,
+   "rank_bin": null,
+   "rating": 4.7,
+   "reviews": null,
+   "conv_pct": null,
+   "drr_pct": null,
+   "promo_days": null,
+   "scheme": null,
+   "image": "https://ir-20.ozonstatic.cn/s3/multimedia-1-s/11324691784.jpg",
+   "url": "https://www.ozon.ru/product/rumyana-dlya-litsa-vishnevye-charming-kremovye-s-zhemchuzhnoy-i-brilliantovoy-pudroy-ton-700-4353244884/?at=1p6r1NcNGNS4eU_bKwS1ZvMzZFtA2-qw"
   }
  ]
 }
