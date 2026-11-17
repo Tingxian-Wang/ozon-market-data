@@ -1,0 +1,11 @@
+{
+  "_说明": "类目清单。category3Id 是 Ozon 的第三级类目ID（在卖家后台「分析→Ozon上的商品」筛选器里能看到）。keyword 是可选的俄语搜索词，用于买家端补长尾。",
+  "_怎么找ID": "卖家后台 → 分析 → Ozon上的商品 → 筛选器里搜类目名，URL 或接口返回里的 category3Id 就是；也可以从已抓到的榜单 JSON 里读 category3Id。",
+  "categories": [
+    { "name": "腮红",   "category3Id": "93443", "keyword": "румяна" },
+    { "name": "口红",   "category3Id": "93412", "keyword": "помада для губ" },
+    { "name": "粉饼",   "category3Id": "93442", "keyword": "пудра для лица" },
+    { "name": "遮瑕",   "category3Id": "93424", "keyword": "консилер" },
+    { "name": "高光",   "category3Id": "93454", "keyword": "хайлайтер" }
+  ]
+}
