@@ -78,6 +78,23 @@ curl "https://yunlinghanyin.cn/api/market/stats_by_category?category=93443"
 **接口返回的字段和仓库里的 JSON 完全一致**（同一个 schema），所以两种拿法可以混用：
 探索阶段打接口，要全量就 clone。
 
+
+用代码调（客户端零依赖，只要 Python 3.7+）：
+
+```python
+from ozondata.api import Client
+
+c = Client()
+c.stats()                                  # 库状态：schema / 更新时间 / 类目数
+c.categories()                             # [{id, name, count, gmv_total}]
+c.top("93443", n=10, by="sales")           # 腮红销量前十 → [Item]
+c.stats_by_category("93443")               # GMV / 价格带 / ДРР 中位 / 集中度
+c.item("3616809972")                       # 单个 SKU
+```
+
+返回的是 `Item` 对象，字段和仓库里的 JSON 一一对应。
+**查不到会抛 `NotFound`，不会给你一个空列表**——空列表会被读成「这个类目没有商品」。
+
 错误约定：`400` 参数非法 / `404` 没有这个类目或 SKU（**不是零，是没抓**）/ `429` 限流 / `503` 数据未就绪。
 
 完整文档：<https://yunlinghanyin.cn/product-api.html>
